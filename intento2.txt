@@ -5,3 +5,5 @@ estoy trabajando para distriservices xray
 quiero inciar un aprendizaje en git pero no se como inciar
 
 ten un lindo dia.
+ahora sigue una prueb con el merge intendando combinar 
+la cabecera con el master osea este
