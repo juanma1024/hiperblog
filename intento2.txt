@@ -1,9 +1,8 @@
-yo soy juan tengo 18 años
-estoy en segundo semestre de universidad
-vivo con mi abuela
-estoy trabajando para distriservices xray
-quiero inciar un aprendizaje en git pero no se como inciar
-
-ten un lindo dia.
-ahora sigue una prueb con el merge intendando combinar 
-la cabecera con el master osea este
+yo soy juan manuel
+tengo 18 años 
+voy para segundo semestre de universidad 
+estudiando ingenieria de software
+voy a salir dentro de no mucho tiempo 
+de distriservices x ray 
+ya que estoy cansado de las personas
+que hay en este lugar
